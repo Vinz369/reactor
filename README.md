@@ -1,6 +1,6 @@
 test
 
-npm uninstall tailwindcss
+
 npm install -D tailwindcss@3.4.3 postcss autoprefixer
 npx tailwindcss init -p
 
